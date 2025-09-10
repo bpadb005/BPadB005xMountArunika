@@ -10228,7 +10228,7 @@ screenGui.ResetOnSpawn = false
 screenGui.Parent = game.CoreGui
 
 local frame = Instance.new("Frame",screenGui)
-frame.Size = UDim2.new(0,290,0,180)
+frame.Size = UDim2.new(0,320,0,180)
 frame.Position = UDim2.new(0.5,-140,0.5,-90)
 frame.BackgroundColor3 = Color3.fromRGB(35,35,40)
 frame.Active = true
