@@ -48,7 +48,7 @@ local function createUI()
     ScreenGui.Parent = player:WaitForChild("PlayerGui")
 
     local Frame = Instance.new("Frame")
-    Frame.Size = UDim2.new(0,180,0,100)
+    Frame.Size = UDim2.new(0,180,0,110)
     Frame.Position = UDim2.new(0.05,0,0.05,0)
     Frame.BackgroundColor3 = Color3.fromRGB(35,35,35)
     Frame.BorderSizePixel = 0
